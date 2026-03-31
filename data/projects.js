@@ -10,10 +10,9 @@
 
 const projects = [
   // ADD YOUR ENTRY HERE - copy the object below as your template
-
   {
-    member: "Team Lead",
-    project: "DevTeam Hub",
+    member: "Member-1",
+    project: "AAA-Omega-3.0",
     description: "The team portfolio site you are looking at right now.",
     status: "in-progress",
     github: "#",
