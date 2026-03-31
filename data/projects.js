@@ -22,5 +22,11 @@ const projects = [
     description: "The AAA Omega 3.0 Project team. Boommm!!!",
     status: "in-progress",
     github: "manitthongkaw",
+  },{
+    member: "Aod",
+    project: "DevTeam Hub",
+    description: "The team portfolio site you are looking at right now.",
+    status: "in-progress",
+    github: "#",
   }
 ];
