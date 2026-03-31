@@ -23,10 +23,16 @@ const projects = [
     status: "in-progress",
     github: "manitthongkaw",
   },{
+    member: "Member 4",
+    project: "DevTeam Hub",
+    description: "The team portfolio site you are looking at right now.",
+    status: "in-progress",
+    github: "#",
+  },{
     member: "Aod",
     project: "DevTeam Hub",
     description: "The team portfolio site you are looking at right now.",
     status: "in-progress",
     github: "#",
-  }
+  },
 ];
